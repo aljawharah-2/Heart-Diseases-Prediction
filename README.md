@@ -16,6 +16,6 @@ This project contains simple data exploration , plotting and building heart dis
 - [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 ## File Descriptions : 
-1- [File Code](https://github.com/aljawharah-20/Heart-Diseases-Prediction/blob/master/Heart.ipynb) : contains the data investigation , exploration and classifiers. 
+1- [Code file](https://github.com/aljawharah-20/Heart-Diseases-Prediction/blob/master/Heart.ipynb) : contains the data investigation , exploration and classifiers. 
 
 2- [Dataset file](https://github.com/aljawharah-20/Heart-Diseases-Prediction/blob/master/heart.csv) : contains the heart disease dataset
