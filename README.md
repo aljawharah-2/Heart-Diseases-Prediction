@@ -2,7 +2,7 @@
 Build Classification Algorithms
 
 ## Installation :
-Anaconda with python 3 
+[Anaconda with python 3](https://docs.anaconda.com/anaconda/install/) 
 
 
 ## The project contains :
