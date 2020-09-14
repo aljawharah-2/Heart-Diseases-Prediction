@@ -5,8 +5,8 @@ Build Classification Algorithms
 Anaconda with python 3 
 
 
-## What the project contains :
-This project of simple data exploration , plotting and building heart disease classifiers.
+## The project contains :
+This project contains simple data exploration , plotting and building heart disease classifiers.
 
 ## Algorithms that we will work on :
 - Logistic Regression 
