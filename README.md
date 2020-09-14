@@ -1,5 +1,5 @@
-# Machine learning in Medical field - Heart disease
-Build Classification Algorithms.
+# Machine learning in Medical field
+Classification Algorithms for Heart disease.
 
 ## Installation :
 [Anaconda with python 3](https://docs.anaconda.com/anaconda/install/) 
