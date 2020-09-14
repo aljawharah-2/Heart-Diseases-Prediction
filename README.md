@@ -1,4 +1,4 @@
-# Heart-Diseases-Prediction
+# Machine learning in Medical field - Heart disease
 Build Classification Algorithms.
 
 ## Installation :
