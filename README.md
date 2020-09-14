@@ -9,11 +9,11 @@ Anaconda with python 3
 This project contains simple data exploration , plotting and building heart disease classifiers.
 
 ## Algorithms that we will work on :
-- Logistic Regression 
-- K nearest Neighbors 
-- Support Vector 
-- Decision Tree
-- Random Forest
+- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [K nearest Neighbors](https://scikit-learn.org/stable/modules/neighbors.html)
+- [Support Vector](https://scikit-learn.org/stable/modules/svm.html)
+- [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+- [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 ## File Descriptions : 
 1- File Code : contains the data investigation , exploration and classifiers. 
